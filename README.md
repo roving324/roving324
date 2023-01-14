@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 # <h2>Project List</h2>
 1.[<a href="https://github.com/roving324/KDT_MES_EDU">MES</a>]제조실행시스템
 
-2.[<a href="https://github.com/roving324/Material_Management_System">Material_Management_System</a>]원자재관리시스템
+2.[<a href="https://github.com/roving324/Material_Management_System">MMS</a>]자재관리시스템
 
 3.[<a href="https://github.com/roving324/studyASPNET">ASP.NET</a>]ASP.NET Core
