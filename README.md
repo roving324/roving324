@@ -28,8 +28,8 @@ Here are some ideas to get you started:
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c6daecafe2b7068c2b750c66fb79bc63ecfa5bacdfdb393b108d15a9c69d565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3333333636343f7374796c653d666c6174266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6c6daecafe2b7068c2b750c66fb79bc63ecfa5bacdfdb393b108d15a9c69d565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3333333636343f7374796c653d666c6174266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-333664?style=flat&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
 
 # <h2>Project List</h2>
-1.<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/roving324/KDT_MES_EDU">MES</a>
+1.<a href="https://github.com/roving324/KDT_MES_EDU">MES</a>
 
-2.<a target="_blank" href="https://github.com/roving324/studyASPNET">ASP.NET Core</a>
+2.<a href="https://github.com/roving324/studyASPNET">ASP.NET Core</a>
 
-3.<a target="_blank" href="https://github.com/roving324/Material_Management_System">Material_Management_System</a> 
+3.<a href="https://github.com/roving324/Material_Management_System">Material_Management_System</a> 
