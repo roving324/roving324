@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 
 
 ## Project List
-- [<a href="https://github.com/roving324/KDT_MES_EDU">MES</a>]제조실행시스템
 
 - [<a href="https://github.com/roving324/Material_Management_System">MMS</a>]자재관리시스템✨
 
 - [<a href="https://github.com/roving324/studyASPNET">ASP.NET</a>]ASP.NET Core
+
+- [<a href="https://github.com/roving324/KDT_MES_EDU">MES</a>]제조실행시스템🔨
