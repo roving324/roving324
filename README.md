@@ -1,14 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&text=H.JunYoung%20%Github&height=200&fontSize=40&animation=scaleIn&fontColor=EFE4B0" style="width:100%"></img>
+<img src="https://capsule-render.vercel.app/api?type=waving&text=H.JunYoung%20%Github&height=250&fontSize=40&animation=scaleIn&fontColor=EFE4B0" style="width:100%"></img>
 
-### Hi there 👋
+
 
 ## Profile
 - Name : Hwang Junyoung
-- Email : <a href="roving324@naver.com">roving324@naver.com</a>
+- Email : <a href="roving324@naver.com">roving324@naver.com</a>📫
 
 <!--
-**roving324/roving324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
+**roving324/roving324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -28,9 +29,9 @@ Here are some ideas to get you started:
 <img alt="VisualStudio" src ="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=Magenta "/> <img alt="Microsoft SQL Server" src ="https://img.shields.io/badge/Microsoft SQL Server-CC2927.svg?&style=for-the-badge&logo=Microsoft SQL Server&logoColor=sirver"/> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-333664.svg?&style=for-the-badge&logo=GitHub&amp;logoColor=sirver"/>
 
 
-# <h2>Project List</h2>
+## Project List
 - [<a href="https://github.com/roving324/KDT_MES_EDU">MES</a>]제조실행시스템
 
-- [<a href="https://github.com/roving324/Material_Management_System">MMS</a>]자재관리시스템
+- [<a href="https://github.com/roving324/Material_Management_System">MMS</a>]자재관리시스템✨
 
 - [<a href="https://github.com/roving324/studyASPNET">ASP.NET</a>]ASP.NET Core
