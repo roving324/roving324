@@ -36,5 +36,3 @@ Here are some ideas to get you started:
 - [<a href="https://github.com/roving324/studyASPNET">ASP.NET</a>]ASP.NET Core
 
 - [<a href="https://github.com/roving324/KDT_MES_EDU">MES</a>]제조실행시스템🔨
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Froving324%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
