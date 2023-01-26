@@ -4,7 +4,7 @@
 
 ## Profile
 - Name : Hwang Junyoung
-- Email : <a href="roving324@naver.com">roving324@naver.com</a>📫
+- Email : <a href="zxcqwvr194@gmail.com">roving324@naver.com</a>📫
 
 <!--
 ### Hi there 👋
