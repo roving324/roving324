@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 - [<a href="https://github.com/roving324/studyASPNET">ASP.NET</a>]ASP.NET Core
 
-- [<a href="https://github.com/roving324/MES">MES</a>]제조실행시스템🔨
+- [<a href="https://github.com/roving324/KDT_MES_EDU">MES</a>]제조실행시스템🔨
