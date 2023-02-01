@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## Project List
 
-- [<a href="https://github.com/roving324/Material_Management_System">WMS</a>]창고관리시스템✨
+- [<a href="https://github.com/roving324/Team_miniproject">Team_miniproject</a>]관리시스템✨
 
 - [<a href="https://github.com/roving324/studyASPNET">ASP.NET</a>]ASP.NET Core
 
